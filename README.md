@@ -1,2 +1,2 @@
 # Online-Funding-System
-A database application project using Python and SQLite, like Kickstarter. SQLiteStudio and PySimpleGUI are utilized.
+A Kickstarter-like GUI application built using Python with a database built using SQLite.
